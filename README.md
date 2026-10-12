@@ -1,7 +1,6 @@
 # Jonghun Gim (김종훈)
 
 M.S. candidate · Department of Artificial Intelligence, Jeonju University (Jeonju, Korea)  
-Research assistant · RISE 사업단 (2025.07 – present)
 
 **Research question I keep returning to:** *before a simulation result or an AI judgement is sent to a real machine or a real person, under which conditions can it be trusted — and how do we measure that?*
 
